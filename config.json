@@ -1,0 +1,65 @@
+{
+  "code": "TSU",
+  "title": "SMASH TSU",
+  "school": "대구과학대",
+  "fullName": "대구과학대학교",
+  "campusName": "대구과학대학교",
+  "tagline": "대구과학대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대구과학대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대구과학대학교 3D 화면과 SMASH TSU 제목",
+  "url": "https://hong-iron.github.io/SMASH-TSU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "relation",
+    "id": 16538499
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "대학본부": {
+      "style": "stone",
+      "wall": "#a4a8aa",
+      "glass": "#445d5b",
+      "frame": "#b5b7b8",
+      "roof": "#9c7a66",
+      "hip": true
+    },
+    "인문관": {
+      "style": "stone",
+      "wall": "#a0a5a8",
+      "glass": "#5a6064",
+      "frame": "#b8bec0"
+    },
+    "공학관": {
+      "style": "stone",
+      "wall": "#bec2c1",
+      "glass": "#6b6f6e",
+      "frame": "#9ca3a5"
+    },
+    "종합복지관": {
+      "style": "stone",
+      "wall": "#d8d6d7",
+      "glass": "#474b4a",
+      "frame": "#b9bbbd"
+    },
+    "평생교육원": {
+      "style": "brick",
+      "wall": "#6e6466",
+      "glass": "#2a5a6a",
+      "frame": "#ece9e4"
+    },
+    "대구과학대학": {
+      "style": "glass",
+      "wall": "#2b3438",
+      "glass": "#56656c",
+      "frame": "#a64a50"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
